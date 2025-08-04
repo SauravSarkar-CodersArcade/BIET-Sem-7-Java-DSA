@@ -1,4 +1,5 @@
 package dsa.dataStructures.linear.linkedLists.cll;
+
 class Node {
     int data;
     Node next;
